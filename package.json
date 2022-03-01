@@ -1,0 +1,28 @@
+{
+  "name": "theme-switcher",
+  "version": "1.0.0",
+  "description": "Simple JS library for theme switching on your  app or site",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybercat69/theme-switcher.js.git"
+  },
+  "keywords": [
+    "js",
+    "theme",
+    "utils",
+    "UI"
+  ],
+  "author": "cybercat69",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cybercat69/theme-switcher.js/issues"
+  },
+  "homepage": "https://github.com/cybercat69/theme-switcher.js#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
